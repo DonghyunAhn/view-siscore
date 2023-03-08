@@ -4,7 +4,7 @@ title: "District-level siScore map on North Korea"
 author_profile: false
 categories: interactive_map
 header:
-  teaser: assets/images/teaser/2023-03-08-NK-siScore-District.png
+  teaser: ../../assets/images/teaser/2023-03-08-NK-siScore-District.png
 ---
 # siScore interactive map on NK  
 ## District-level, 2016-2019  
