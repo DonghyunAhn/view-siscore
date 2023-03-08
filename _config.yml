@@ -16,14 +16,14 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "siScore visualization"
+title                    : "DSLAB GISteam"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Donghyunahn"
-description              : "Posting a visualized map of siScore."
+description              : "Blog to post GISteam's research"
 url                      : # "https://donghyunahn.github.io/view-siscore/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "DonghyunAhn/development-measure"
+repository               : "DonghyunAhn/view-siscore"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : #"/assets/images/tony-logo.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "DonghyunAhn"
   avatar           : "https://lh3.googleusercontent.com/u/0/drive-viewer/AAOQEOR4iAdPnKsSzX1fD8JOuR38xMogWdMnsmo2EPw1fMqVI0hJtHiH0aAGK-SvQLfJ6VzYbKvjGM88M4cWAPnCuT5_-1LAPA=w1920-h937"
-  bio              : "Ph.D Student. @KAIST"
+  bio              : "GISteam Leader, Ph.D Student. @KAIST \n "Feel free to contact me through any of the provided channels!"
   location         : "Daejeon, Korea"
   email            :
   links:
