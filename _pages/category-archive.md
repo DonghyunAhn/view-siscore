@@ -1,7 +1,7 @@
 ---
-title: "Maps"
+title: "Products"
 layout: categories
-permalink: /maps/
+permalink: /products/
 author_profile: true
 sidebar_main: true
 ---
