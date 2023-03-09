@@ -3,6 +3,7 @@ layout: single
 title: "District-level siScore map on North Korea"  
 author_profile: false
 categories: interactive_map
+tags : team-econ
 header:
   teaser: /assets/images/teaser/2023-03-08-NK-siScore-District.png
 ---
