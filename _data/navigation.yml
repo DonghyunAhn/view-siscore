@@ -1,7 +1,11 @@
 # main links
 main:
+  - title: "About us"
+    url: /about/
   - title: "Products"
     url: /products/
+  - title: "Tag"
+    url: /tags/
     # url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
