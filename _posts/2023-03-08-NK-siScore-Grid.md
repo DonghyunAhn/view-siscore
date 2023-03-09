@@ -18,5 +18,5 @@ To comply with the file size upload limit (<100MB), we present grid-level maps f
 We are looking for alternative solutions to deliver our result with better accessibility.  
 
 <div markdown="0">  
-<iframe src="../../assets/htmls/Normalized_1619_NK_siScore_grid.html" height="800" width="800"></iframe>
+<iframe src="../../assets/htmls/Normalized_1619_NK_siScore_grid_with_districtinfo.html" height="800" width="800"></iframe>
 </div>
