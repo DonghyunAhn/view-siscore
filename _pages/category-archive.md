@@ -1,7 +1,7 @@
 ---
-title: "Products"
+title: "Categories"
 layout: categories
-permalink: /products/
+permalink: /categories/
 author_profile: true
 sidebar_main: true
 ---
