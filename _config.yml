@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Donghyunahn"
 description              : "Blog to post GISteam's research"
-url                      : # "https://donghyunahn.github.io/view-siscore/"
+url                      : "https://www.siscore.app"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "DonghyunAhn/view-siscore"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
