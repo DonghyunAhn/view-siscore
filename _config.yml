@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "DSLAB GISteam"
+title                    : "SISCORE MAPS"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Donghyunahn"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "DonghyunAhn"
   avatar           : "https://lh3.googleusercontent.com/u/0/drive-viewer/AAOQEOR4iAdPnKsSzX1fD8JOuR38xMogWdMnsmo2EPw1fMqVI0hJtHiH0aAGK-SvQLfJ6VzYbKvjGM88M4cWAPnCuT5_-1LAPA=w1920-h937"
-  bio              : "(Now) Leader, DSLAB GISteam <br> Ph.D Student at KAIST.<br> Feel free to contact me through any of the provided channels!"
+  bio              : "(Now) Team Leader, DSLAB GISteam <br> Ph.D Student at KAIST.<br> Feel free to contact me through any of the provided channels!"
   location         : "Daejeon, Korea"
   email            :
   links:
