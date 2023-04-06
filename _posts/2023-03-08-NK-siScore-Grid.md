@@ -1,7 +1,7 @@
 ---  
 layout: single  
 title: "Grid-level siScore map on North Korea"  
-author_profile: false
+author_profile: true
 categories: interactive_map
 tags : team-econ
 header:
